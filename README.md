@@ -18,10 +18,10 @@ None
 ## Example usage
 
 ```yaml
-uses: jpetrucciani/mypy-check@master
+uses: moss-fydp/mypy-check@master
 
 # or specify a path!
-uses: jpetrucciani/mypy-check@master
+uses: moss-fydp/mypy-check@master
 with:
   path: '.'
 ```
